@@ -1,5 +1,17 @@
 {
   "index.qmd": {
     "index.html": "a369e92d"
+  },
+  "projects/index.qmd": {
+    "index.html": "33dfd57d"
+  },
+  "blog/third-post/index.ipynb": {
+    "index.html": "460181b6"
+  },
+  "blog/first-post/index.qmd": {
+    "index.html": "6bbc9179"
+  },
+  "blog/second-post/index.qmd": {
+    "index.html": "feccf5d0"
   }
 }
