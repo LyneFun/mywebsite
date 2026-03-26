@@ -1,8 +1,9 @@
 ---
-title: "Lynn"
+title: "Lyne"
 subtitle: "Data Scientist"
 # `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+image: IMG_5073 copy.jpg
+
 about: # https://quarto.org/docs/websites/website-about.html
   template: jolla
   links:
@@ -18,8 +19,10 @@ A little bit about me and my life.
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+University of South Florida, Tampa \| Jun 2023 - May 2027
+
+Junior majoring in Finance and Risk Management & insurance. 
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Busch Gardens \| Ambassador \| October 2025 - present
